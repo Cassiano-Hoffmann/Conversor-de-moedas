@@ -3,6 +3,8 @@
 Este é um simples conversor de moedas desenvolvido em HTML5, CSS3 e JavaScript. Ele permite a conversão entre várias moedas populares, incluindo Real (BRL), Dólar (USD), Euro (EUR), Libra (GBP) e Bitcoin (BTC).
 
 # Imagem
+![Conversor de moedas](https://github.com/Cassiano-Hoffmann/Conversor-de-moedas/assets/117099774/e1155afe-8add-4712-b069-94f0195782d1)
+
 
 # Como Usar
 
