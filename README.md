@@ -6,7 +6,7 @@ Este é um simples conversor de moedas desenvolvido em HTML5, CSS3 e JavaScript.
 
 # Como Usar
 
-Clone este repositório em sua máquina local usando git clone https://github.com/seu-usuario/conversor-de-moedas.git.
+Clone este repositório em sua máquina local usando git clone https://github.com/Cassiano-Hoffmann/Conversor-de-moedas.git
 
 Abra o arquivo index.html em seu navegador web.
 
